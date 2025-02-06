@@ -1,5 +1,0 @@
-index,column,value,cause,error,rejection_datetime
-2,age,3po9,integer,invalid literal for int() with base 10: '3po9',2025-02-06 11:08:23
-3,age,4ytr9,integer,invalid literal for int() with base 10: '4ytr9',2025-02-06 11:08:23
-4,salary,8563c4.04,decimal,could not convert string to float: '8563c4.04',2025-02-06 11:08:23
-5,age,5u3,integer,invalid literal for int() with base 10: '5u3',2025-02-06 11:08:23
