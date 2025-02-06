@@ -1,0 +1,26 @@
+{
+  "verticals": {
+    "sgma": {
+      "phases": {
+        "ingestion": {
+          "systeme_source": {
+            "delta": {
+              "flux": [
+                {"name": "bkhis", "mandatory": false, "disable":  false},
+                {"name": "bksldf", "mandatory": false, "disable":  false}
+              ]
+            },
+            "aquarius": {
+              "flux": [
+                {"name": "flux1", "mandatory": false, "disable":  false},
+                {"name": "flux2", "mandatory": false, "disable":  false}
+              ]
+            }
+          }
+        },
+        "core": {},
+        "marts": {}
+      }
+    }
+  }
+}

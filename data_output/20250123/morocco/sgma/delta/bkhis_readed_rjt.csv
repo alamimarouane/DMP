@@ -1,0 +1,6 @@
+flow_name,datetime,column,value,cause,proposition
+bkhis,2025-02-06T11:08:23.861745,,"1,       John     ,Doe ,john.doe@example.com,1990-01-01,2023-01-01T10:00:00,True",Incorrect number of columns,Ensure the row matches the header format.
+bkhis,2025-02-06T11:08:23.861745,,"2,Jane,Smith,jane.smith@example.com,1985-02-15,2023-01-02T12:30:00,False",Incorrect number of columns,Ensure the row matches the header format.
+bkhis,2025-02-06T11:08:23.861745,,"3, Alice,Johnson,alice.johnson@example.com,1992-06-10,2023-01-03T15:45:00,True",Incorrect number of columns,Ensure the row matches the header format.
+bkhis,2025-02-06T11:08:23.861745,,"4,Bob,Brown,bob.brown@example.com,,2023-01-04T09:15:00,True",Incorrect number of columns,Ensure the row matches the header format.
+bkhis,2025-02-06T11:08:23.861745,,"5,Charlie,Davis,charlie.davis@example.com,1988-09-25,2023-01-05T18:20:00,False",Incorrect number of columns,Ensure the row matches the header format.
