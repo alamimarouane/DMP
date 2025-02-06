@@ -1,6 +1,0 @@
-customer_id,test,first_name,last_name,email,birth_date,created_at,is_active
-1,       John     ,Doe ,john.doe@example.com,1990-01-01,2023-01-01T10:00:00,True
-2,Jane,Smith,jane.smith@example.com,1985-02-15,2023-01-02T12:30:00,False
-3, Alice,Johnson,alice.johnson@example.com,1992-06-10,2023-01-03T15:45:00,True
-4,Bob,Brown,bob.brown@example.com,,2023-01-04T09:15:00,True
-5,Charlie,Davis,charlie.davis@example.com,1988-09-25,2023-01-05T18:20:00,False
